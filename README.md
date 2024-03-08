@@ -13,26 +13,26 @@ In this project, you will be guided through building a style transfer tool using
 ## Table of Contents 📑
 1. Objectives
 2. Setup
-- Installing Required Libraries
-- Importing Required Libraries
-- Defining Helper Functions
+  - Installing Required Libraries
+  - Importing Required Libraries
+  - Defining Helper Functions
 4. What is Image Style Transfer in Deep Learning?
 5. CycleGANs
-- quick recap on vanilla GANs
-- What's novel about CycleGANs?
+  - quick recap on vanilla GANs
+  - What's novel about CycleGANs?
 6. Data Loading
 7. Building the Generator
-- Defining the Downsampling Block
-- Defining the Upsampling Block
-- Assembling the Generator
+  - Defining the Downsampling Block
+  - Defining the Upsampling Block
+  - Assembling the Generator
 8. Building the Discriminator
 9. Building the CycleGAN Model
 10. Defining Loss Functions
 11. Model Training
-- Training the CycleGAN
+  - Training the CycleGAN
 12. Visualize our Monet-esque photos
-- Loading the Pre-trained Weights
-- Visualizing Style Transfer Output
+  - Loading the Pre-trained Weights
+  - Visualizing Style Transfer Output
 
 ## Objectives 🎯
 After completing this project you will be able to:
