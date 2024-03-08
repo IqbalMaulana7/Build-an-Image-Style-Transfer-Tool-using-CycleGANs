@@ -13,6 +13,13 @@ In this project, you will be guided through building a style transfer tool using
 ## Table of Contents 📑
 1. Objectives
 2. Setup
+    - Example 1 - Sentiment Analysis
+    - Example 2 - Topic Classification
+    - Example 3 - Text Generator: Masked Language Modeling
+    - Example 4 - Name Entity Recognition
+    - Example 5 - Question Answering
+    - Example 6 - Text Summarization
+    - Example 7 - Translation
   - Installing Required Libraries
   - Importing Required Libraries
   - Defining Helper Functions
